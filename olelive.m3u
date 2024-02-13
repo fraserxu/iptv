@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV16HD" group-title="Undefined",CCTV16HD
+https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV1HD" group-title="Undefined",CCTV1HD
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV2HD" group-title="Undefined",CCTV2HD
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV5HD" group-title="Undefined",CCTV5HD
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV5PHD" group-title="Undefined",CCTV5PHD
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV6HD" group-title="Undefined",CCTV6HD
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV8HD" group-title="Undefined",CCTV8HD
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV9HD" group-title="Undefined",CCTV9HD
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
